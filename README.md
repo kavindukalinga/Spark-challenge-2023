@@ -57,7 +57,7 @@ commented out
 
 ## What is SPARK@UoM? 
 
->Spark Challenge organized by entc in uom is...
+>A Spark Challenge where contestents compete with sustainable ideas, organized by the ENTC@UoM is one of a competition for Sri Lankans who have innovative minds.  
 >
 >The intention of Project SPARK is to expose ENTC undergraduates to a set of challenges not made available in any other university in Asia, Europe, or the Americas. This unique project will not only provide a platform to develop innovative ideas to solve real-world problems but also develop some of the soft and hard skill sets required by undergraduates to be effective and productive professionals in the modern-day industry.
 >
