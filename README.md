@@ -2,12 +2,19 @@
  We are team "Tech Hawks", a team of engineering undergraduates is willing to participate and win the Spark Challenge iorganized by ENTC University of Moratuwa in 2023.
 
 
+## What is SPARK challenge? 
 
-
-## Our SPARK challenge Journey 
-So, first......
+>>Spark Challenge organized by entc in uom is...
+>>
+>>This is organized annually using funds of ...
 
 #### [More](https://ent.uom.lk/spark-at-uom/) on SPARK challenge 
+
+## Our SPARK challenge Journey 
+
+So, first......
+
+
 
 
 ## Experience as Members
