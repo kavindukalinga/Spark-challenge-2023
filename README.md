@@ -44,7 +44,11 @@ commented out
 
 ## Our SPARK Journey 
 
->Our Team presented this project and placed 1111th place. Regardless of the place and prize, we gained a lot of in-hand experience and went through the full process of product development and manufacturing. About the experience of each member got, we have included it in blogs and as other records. Links for members' experiences are as follows.
+>Our Team presented this project and placed 1111th place.
+>
+> SPARK Challenge 2021/22 Results : [Visit](https://ent.uom.lk/spark-at-uom/spark-challenge-2021-22-results/)
+>
+>Regardless of the place and prize, we gained a lot of in-hand experience and went through the full process of product development and manufacturing. About the experience of each member got, we have included it in blogs and as other records. Links for members' experiences are as follows.
 
 ### Members Experience
 
@@ -86,7 +90,7 @@ commented out
 
 >After the successful conclusion of Spark Challenge 2021/22, the next chapter of the competition, Spark Challenge 2022/23 was launched with the hope of energizing the young innovators preparing them to take up the future industry and to fight the climate change.
 >
-> Challenge 2021/22 Results : [Visit](https://ent.uom.lk/spark-at-uom/spark-challenge-2021-22-results/)
+> SPARK Challenge 2021/22 Results : [Visit](https://ent.uom.lk/spark-at-uom/spark-challenge-2021-22-results/)
 
 In supporting the SPARK objectives, the following web and social media sites have been created and managed by the E-Club and the SPARK Branch.
 >SPARK Forum Web Site : [Official Platform of SPARK@UOM](https://ent.uom.lk/spark/)
