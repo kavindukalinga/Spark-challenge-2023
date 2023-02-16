@@ -5,8 +5,8 @@
 
 
 ### Our SPARK challenge Journey 
-<p align="left"> [Here](https://kalingachandrasiri.blogspot.com/2023/02/spark-challenge-2023.html) by Kavindu Kalinga
-
+ [Here](https://kalingachandrasiri.blogspot.com/2023/02/spark-challenge-2023.html) by Kavindu Kalinga
+<p align="left">
 <!---
 All this should be 
 commented out
