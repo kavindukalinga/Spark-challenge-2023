@@ -5,11 +5,37 @@ We are team **Tech Hawks**, a team of engineering undergraduates who is willing 
 
 
 
-## Spark challenge 2022/23
+# Spark challenge 2022/23
 
 ## Tech Hawks
 
 We craeted a team of four friends who were undergraduates in Electronic and Telecommunication Engineering in University of Moratuwa. We came up with the team name **Tech Hawks** and tried to find sustainable solutions for current problems.
+
+### Members
+
+#### [Team Leader :](https://github.com/Pahansith7) by Pahansith Tharuka
+
+#### [Team Member :](https://kalingachandrasiri.blogspot.com/2023/02/spark-challenge-2023.html) by Kavindu Kalinga
+<p align="left">
+<!---
+All this should be 
+commented out
+<a href="https://twitter.com/KalingaKavindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavindukalinga" height="15" width="20" /></a>
+-->
+ <a href="https://www.linkedin.com/in/kalingachandrasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalingachandrasiri" height="15" width="20" /></a>
+<a href="https://stackoverflow.com/users/16277941/kavindu-kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kavindu-kalinga" height="15" width="20" /></a>
+<a href="https://www.facebook.com/kavindu.kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu.kalinga" height="15" width="20" /></a>
+<a href="https://www.instagram.com/kavindu_kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavindu_kalinga" height="15" width="20" /></a>
+<!-- <a href="https://www.youtube.com/c/uckvw2mrlhn_qxktjxyzahzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckvw2mrlhn_qxktjxyzahzw" height="15" width="20" /></a> -->
+<a href="https://discord.gg/CrazzyHawK#8536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CrazzyHawK#8536" height="15" width="20" /></a>
+</p>
+
+#### [Team Member :](https://github.com/pasindu201) by Pasindu Sandeep
+#### [Team Member :](https://github.com/VenuriAmarasinghe) by Venuri Amarasinghe
+
+## Our SPARK Journey 
+
+So, first......
 
 ### Members Experience
 
@@ -77,13 +103,4 @@ In supporting the SPARK objectives, the following web and social media sites hav
 >Raspberry Pi Live Streaming : [Public Facebook group](https://www.facebook.com/SparkUoM)
 
 #### [More](https://ent.uom.lk/spark-at-uom/) on SPARK@UoM 
-
-## Our SPARK challenge Journey 
-
-So, first......
-
-
-
-
-
 
