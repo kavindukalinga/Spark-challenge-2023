@@ -7,7 +7,7 @@
 ## Our SPARK challenge Journey 
 So, first......
 
-### [More](https://ent.uom.lk/spark-at-uom/) on SPARK challenge 
+#### [More](https://ent.uom.lk/spark-at-uom/) on SPARK challenge 
 
 
 ## Experience as Members
