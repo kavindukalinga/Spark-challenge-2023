@@ -1,7 +1,6 @@
 # Ground Cultivating Robot
 
-We are team **Tech Hawks**, a team of engineering undergraduates who is willing to participate and win the Spark Challenge 2022/23 iorganized by ENTC University of Moratuwa.  
-
+This is the project we, Team **Tech Hawks** presented when participating the **Spark Challenge 2022/23**, organized by the Department of Electronic and Telecommunication Engineering in University of Moratuwa(**SPARK@UoM**) in 2023.
 
 
 
@@ -9,7 +8,7 @@ We are team **Tech Hawks**, a team of engineering undergraduates who is willing 
 
 ## Tech Hawks
 
-We craeted a team of four friends who were undergraduates in Electronic and Telecommunication Engineering in University of Moratuwa. We came up with the team name **Tech Hawks** and tried to find sustainable solutions for current problems.
+We craeted a team of four friends who were undergraduates in Electronic and Telecommunication Engineering in University of Moratuwa. We came up with the team name **Tech Hawks** and tried to find sustainable solutions for current problems together. We enetered 
 
 ### Members
 
@@ -45,25 +44,11 @@ commented out
 
 ## Our SPARK Journey 
 
-So, first......
+>Our Team presented this project and placed 1111th place. Regardless of the place and prize, we gained a lot of in-hand experience and went through the full process of product development and manufacturing. About the experience of each member got, we have included it in blogs and as other records. Links for members' experiences are as follows.
 
 ### Members Experience
 
 #### [Here :](https://kalingachandrasiri.blogspot.com/2023/02/spark-challenge-2023.html) by Kavindu Kalinga
-<p align="left">
-<!---
-All this should be 
-commented out
-<a href="https://twitter.com/KalingaKavindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavindukalinga" height="15" width="20" /></a>
--->
- <a href="https://www.linkedin.com/in/kalingachandrasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalingachandrasiri" height="15" width="20" /></a>
-<a href="https://stackoverflow.com/users/16277941/kavindu-kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kavindu-kalinga" height="15" width="20" /></a>
-<a href="https://www.facebook.com/kavindu.kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu.kalinga" height="15" width="20" /></a>
-<a href="https://www.instagram.com/kavindu_kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavindu_kalinga" height="15" width="20" /></a>
-<!-- <a href="https://www.youtube.com/c/uckvw2mrlhn_qxktjxyzahzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckvw2mrlhn_qxktjxyzahzw" height="15" width="20" /></a> -->
-<a href="https://discord.gg/CrazzyHawK#8536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CrazzyHawK#8536" height="15" width="20" /></a>
-</p>
-
 #### [Here :](https://github.com/Pahansith7) by Pahansith Tharuka
 #### [Here :](https://github.com/pasindu201) by Pasindu Sandeep
 #### [Here :](https://github.com/VenuriAmarasinghe) by Venuri Amarasinghe
