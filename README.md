@@ -24,4 +24,4 @@ commented out
 ### [Here](https://github.com/pasindu201) by Pasindu Sandeep
 ### [Here](https://github.com/VenuriAmarasinghe) by Venuri Amarasinghe
 
-### More on SPARK challenge [Here](https://ent.uom.lk/spark-at-uom/)
+## [More](https://ent.uom.lk/spark-at-uom/) on SPARK challenge 
