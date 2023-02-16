@@ -13,12 +13,12 @@ We craeted a team of four friends who were undergraduates in Electronic and Tele
 
 ### Members
 
-#### [Team Leader :](https://github.com/Pahansith7) Pahansith Tharuka
+#### Team Leader : Pahansith Tharuka
 <p align="left">
 <a href="https://github.com/Pahansith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pahansiththaruka" height="15" width="20" /></a>
 </p>
 
-#### [Team Member :](https://kalingachandrasiri.blogspot.com/2023/02/spark-challenge-2023.html) by Kavindu Kalinga
+#### Team Member : Kavindu Kalinga
 <p align="left">
 <!---
 All this should be 
@@ -33,8 +33,15 @@ commented out
 <a href="https://discord.gg/CrazzyHawK#8536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CrazzyHawK#8536" height="15" width="20" /></a>
 </p>
 
-#### [Team Member :](https://github.com/pasindu201) Pasindu Sandeep
-#### [Team Member :](https://github.com/VenuriAmarasinghe) Venuri Amarasinghe
+#### Team Member : Pasindu Sandeep
+<p align="left">
+<a href="https://github.com/pasindu201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindusandeep" height="15" width="20" /></a>
+</p>
+
+#### Team Member : Venuri Amarasinghe
+<p align="left">
+<a href="https://github.com/VenuriAmarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venuriamarasinghe" height="15" width="20" /></a>
+</p>
 
 ## Our SPARK Journey 
 
