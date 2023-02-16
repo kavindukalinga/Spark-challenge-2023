@@ -4,7 +4,7 @@ This is the project we, Team **Tech Hawks** presented when participating the **S
 
 
 
-# Spark challenge 2022/23
+# Spark Challenge 2022/23
 
 ## Tech Hawks
 
