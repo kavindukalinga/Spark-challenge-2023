@@ -44,9 +44,7 @@ commented out
 
 ## Our SPARK Journey 
 
->Our Team presented this project and placed 1111th place.
->
-> SPARK Challenge 2021/22 Results : [Visit](https://ent.uom.lk/spark-at-uom/spark-challenge-2021-22-results/)
+>Our Team presented this project and placed Xth place. [SPARK Challenge 2022/23 Results](https://ent.uom.lk/spark-at-uom/spark-challenge-2021-22-results/)
 >
 >Regardless of the place and prize, we gained a lot of in-hand experience and went through the full process of product development and manufacturing. About the experience of each member got, we have included it in blogs and as other records. Links for members' experiences are as follows.
 
