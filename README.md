@@ -5,6 +5,13 @@
 
 
 ## Our SPARK challenge Journey 
+So, first......
+
+### [More](https://ent.uom.lk/spark-at-uom/) on SPARK challenge 
+
+
+## Experience as Members
+
 ### [Here](https://kalingachandrasiri.blogspot.com/2023/02/spark-challenge-2023.html) by Kavindu Kalinga
 <p align="left">
 <!---
@@ -24,4 +31,4 @@ commented out
 ### [Here](https://github.com/pasindu201) by Pasindu Sandeep
 ### [Here](https://github.com/VenuriAmarasinghe) by Venuri Amarasinghe
 
-## [More](https://ent.uom.lk/spark-at-uom/) on SPARK challenge 
+
