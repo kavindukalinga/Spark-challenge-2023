@@ -20,8 +20,8 @@ commented out
 <a href="https://discord.gg/CrazzyHawK#8536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CrazzyHawK#8536" height="30" width="40" /></a>
 </p>
 
-###[Here](https://github.com/Pahansith7) by Pahansith Tharuka
-###[Here](https://github.com/pasindu201) by Pasindu Sandeep
-###[Here](https://github.com/VenuriAmarasinghe) by Venuri Amarasinghe
+### [Here](https://github.com/Pahansith7) by Pahansith Tharuka
+### [Here](https://github.com/pasindu201) by Pasindu Sandeep
+### [Here](https://github.com/VenuriAmarasinghe) by Venuri Amarasinghe
 
 ### More on SPARK challenge [Here](https://ent.uom.lk/spark-at-uom/)
