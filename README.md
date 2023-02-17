@@ -34,7 +34,7 @@ commented out
 
 #### Team Member : Pasindu Sandeep
 <p align="left">
-<a href="https://github.com/pasindu201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindusandeep" height="15" width="20" /></a>
+<a href="https://www.linkedin.com/in/pasindu-sandeep-367a81260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindusandeep" height="15" width="20" /></a>
 </p>
 
 #### Team Member : Venuri Amarasinghe
