@@ -19,8 +19,8 @@ This is the project we, Team **Tech Hawks** presented when participating the **S
 
 #### Team Member : Kavindu Kalinga
 <p align="left">
-<a href="https://twitter.com/yuk_kalinga_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavindukalinga" height="15" width="20" /></a>
 <a href="https://www.linkedin.com/in/kalingachandrasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalingachandrasiri" height="15" width="20" /></a>
+<a href="https://twitter.com/yuk_kalinga_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavindukalinga" height="15" width="20" /></a>
 <a href="https://stackoverflow.com/users/16277941/kavindu-kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kavindu-kalinga" height="15" width="20" /></a>
 <a href="https://www.facebook.com/kavindu.kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu.kalinga" height="15" width="20" /></a>
 <a href="https://www.instagram.com/kavindu_kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavindu_kalinga" height="15" width="20" /></a>
