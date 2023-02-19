@@ -8,7 +8,7 @@ This is the project we, Team **Tech Hawks** presented when participating the **S
 
 ## Tech Hawks
 
->We are a team of four friends who were undergraduates with innovative ideas in the department of Electronic and Telecommunication Engineering in University of Moratuwa. We came up with the team name **Tech Hawks** and tried to find sustainable solutions for the economic crisis and current problems together. We enetered the Spark Challenge 2022/23 hoping to compete doing our best and win the competition.
+>***Tech Hawks*** is a dedicated team of highly motivated and skilled undergraduate students with a passion for technology. Our team is comprised of technical enthusiasts who possess a deep understanding of the latest advancements in the tech industry. With a strong focus on innovation and creativity, we strive to develop cutting-edge solutions that address the challenges faced by today's digital landscape. We are committed to utilizing our knowledge and skills to make a positive impact and create a better future.
 
 ### Members
 
