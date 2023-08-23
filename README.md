@@ -1,17 +1,19 @@
-# Ground Cultivating Robot
+# Techsense: 
+### An application to provide instruction for farmers who lack knowledge about selecting suitable plants for their land and using fertilisers for their plantation.
 
 This is the project we, Team **Tech Hawks** presented when participating the **Spark Challenge 2022/23**, organized by the Department of Electronic and Telecommunication Engineering in University of Moratuwa(**SPARK@UoM**) in 2023.
 
-# Problem description
-## 1primary area of development.
-Food production and preservation.
-## Other Supporting areas of development.
 
+# Problem description
+
+### primary area of development : Food production and preservation.
+
+### Other Supporting areas of development.
 ● Environmental conservation and preservation
 ● Power generation and efficiency
 ● Health care improvement
 
-# The problem statement.
+## The problem statement.
 Farmers waste a lot of resources and money because they are unable to choose the right
 plants to cultivate on a particular piece of land. Food production is diminished as a result,
 and agricultural sustainability is hampered. As a result, a solution is required that can reliably
@@ -104,58 +106,58 @@ features of the soil into account when selecting a plant for a particular piece 
 comes to providing the materials and support needed for plant growth, the soil is absolutely
 essential. Here's a quick breakdown of how the soil should be taken into account:
 
-1. Soil Drainage:
+### 1. Soil Drainage:
 - Adequate drainage is crucial for plant growth.
 - Poor drainage can lead to waterlogged conditions.
 - Excessively well-drained soils may not retain enough moisture.
 - Choose plants adapted to the soil's drainage characteristics.
 
-2. Soil Texture:
+### 2. Soil Texture:
 - Soil texture refers to the proportions of sand, silt, and clay particles.
 - Different textures have varying water-holding capacities and drainage characteristics.
 - Sandy soils drain quickly but may not retain enough moisture.
 - Clay soils retain more water but can have poor drainage.
 - Select plants that can tolerate the specific water-holding and drainage conditions.
 
-3. Nutrient Content:
+### 3. Nutrient Content:
 - Soil nutrient content is essential for plant growth and productivity.
 - Different plants have varying nutrient requirements.
 - Assess soil nutrient levels through testing.
 - Select plants that can thrive in the available nutrient conditions.
 - Implement appropriate fertilization strategies if needed.
 
-4. Soil pH:
+### 4. Soil pH:
 - Soil pH refers to the acidity or alkalinity of the soil.
 - pH influences nutrient availability to plants.
 - Some plants prefer acidic soils, while others thrive in neutral or alkaline conditions.
 - Test soil pH to select suitable plants or adjust pH through soil amendments if necessary.
 
-5. NPK Value:
+### 5. NPK Value:
 - NPK value refers to the concentrations of nitrogen (N), phosphorus (P), and potassium
 (K) in the soil.
 - These macronutrients are crucial for plant growth and productivity.
 - Different plants have varying NPK requirements.
 - Soil testing helps determine nutrient levels and guide fertilization strategies.
 
-6. Organic Matter:
+### 6. Organic Matter:
 - Organic matter content affects soil structure, water retention, and nutrient availability.
 - Soils with higher organic matter content are generally more fertile and have better
 water-holding capacity.
 - Consider organic matter content when selecting plants.
 
-7. Soil Compaction:
+### 7. Soil Compaction:
 - Soil compaction affects root development and nutrient uptake.
 - Compacted soils restrict root growth, requiring plants with deeper root systems.
 - Assess soil compaction levels and consider plant tolerance or soil management
 practices.
 
-8. Soil Temperature:
+### 8. Soil Temperature:
 - Soil temperature affects seed germination, root development, and overall plant
 metabolism.
 - Different plant species have specific temperature requirements.
 - Warm soil promotes faster germination and root growth, while cold soil can inhibit growth.
 
-9. Oxygen Content:
+### 9. Oxygen Content:
 - Oxygen is essential for root respiration, nutrient uptake, beneficial microbiology, soil
 structure, and disease prevention.
 - Insufficient oxygen can lead to nutrient deficiencies, compaction, waterlogging, and poor
@@ -163,7 +165,7 @@ seed germination.
 - Regular soil testing and proper soil aeration are important for maintaining optimal oxygen
 levels.
 
-10. Soil Depth:
+### 10. Soil Depth:
 - Soil depth refers to the thickness of the soil layer available for root growth.
 - Different plants have varying root system requirements.
 - Shallow soils may limit the selection of plants with deep-rooting requirements.
