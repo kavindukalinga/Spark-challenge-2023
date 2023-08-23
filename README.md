@@ -6,11 +6,14 @@ This is the project we, Team **Tech Hawks** presented when participating the **S
 
 # Problem description
 
-### primary area of development : Food production and preservation.
+### Primary area of development : Food production and preservation.
 
-### Other Supporting areas of development.
+### Other Supporting areas of development
+
 ● Environmental conservation and preservation
+
 ● Power generation and efficiency
+
 ● Health care improvement
 
 ## The problem statement.
