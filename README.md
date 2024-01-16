@@ -1,4 +1,4 @@
-# Techsense: 
+# Techsense : 
 ### An application to provide instruction for farmers who lack knowledge about selecting suitable plants for their land and using fertilisers for their plantation.
 
 This is the project we, Team **Tech Hawks** presented when participating the **Spark Challenge 2022/23**, organized by the Department of Electronic and Telecommunication Engineering in University of Moratuwa(**SPARK@UoM**) in 2023.
